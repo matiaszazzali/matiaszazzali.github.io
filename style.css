@@ -398,7 +398,7 @@ section .title::after{
     background: #222;
     height: 375px;
     border-radius: 6px;
-    padding: 25px 35px;
+    padding: 20px 30px;
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
